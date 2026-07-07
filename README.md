@@ -204,5 +204,3 @@ Electronics & Telecommunication Engineering Student
 Passionate about Embedded Systems, C Programming, Data Structures, and Software Development.
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a star!
